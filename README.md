@@ -11,6 +11,6 @@ C++ YOLO v5 ONNX Runtime inference code for object detection.
 ## Run
 define your own include_paths and library_paths in makefile
 ```
-make start <br/>
+make start
 python test_yolo_pybind11.py
 ```
